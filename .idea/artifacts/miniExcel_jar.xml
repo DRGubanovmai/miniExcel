@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="miniExcel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/miniExcel_jar</output-path>
+    <root id="archive" name="miniExcel.jar">
+      <element id="module-output" name="miniExcel" />
+    </root>
+  </artifact>
+</component>
